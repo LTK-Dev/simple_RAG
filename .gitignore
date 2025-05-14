@@ -43,9 +43,3 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
-
-# Images/outputs (optional, if not versioned)
-img/*.png
-img/*.jpg
-img/*.jpeg
-img/*.gif 
