@@ -1,0 +1,7 @@
+together
+sentence-transformers
+numpy
+fastapi
+uvicorn
+python-dotenv
+requests
